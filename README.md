@@ -1,4 +1,4 @@
-Hey, I'm <a href="https://github.com/mohammedbasil-773" style="font-size: 20px;">Mohammed basil</a> 👋
+Hey, I'm <a href="https://github.com/mohammedbasil-773" style="font-size: 50px;">Mohammed basil</a> 👋
 <hr style="border: 2px solid black; width: 50%;">
 
 <br> • 👨‍💻 Exploring the world of coding! </br>
